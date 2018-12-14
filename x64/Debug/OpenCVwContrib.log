@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\lucas\source\repos\arucotrackv3\opencvwcontrib\main.cpp(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lucas\source\repos\arucotrackv3\opencvwcontrib\main.cpp(123): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lucas\source\repos\arucotrackv3\opencvwcontrib\main.cpp(137): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lucas\source\repos\arucotrackv3\opencvwcontrib\main.cpp(144): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lucas\source\repos\arucotrackv3\opencvwcontrib\main.cpp(145): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lucas\source\repos\arucotrackv3\opencvwcontrib\main.cpp(146): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lucas\source\repos\arucotrackv3\opencvwcontrib\main.cpp(150): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lucas\source\repos\arucotrackv3\opencvwcontrib\main.cpp(151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenCVwContrib.vcxproj -> C:\Users\Lucas\source\repos\ArucoTrackv3\x64\Debug\OpenCVwContrib.exe

@@ -1,0 +1,20 @@
+%YAML:1.0
+---
+calibration_time: "Wed Oct 31 10:10:37 2018"
+image_width: 960
+image_height: 720
+flags: 1
+camera_matrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1642.17076, 0., 1176.14705, 0., 1642.83775,
+        714.90826, 0., 0., 1. ]
+distortion_coefficients: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ 0.09059, -0.16979,
+       -0.00796, -0.00078,
+       0.000000 ]
+avg_reprojection_error: 0.25706
